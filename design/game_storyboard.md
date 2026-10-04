@@ -7,12 +7,11 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Escape the Haunted Carnival is a spooky adventure game where the player is trapped inside an abandoned carnival after dark and must explore to find items needed to escape.
 
 **Storyline:**
+You find yourself locked inside a decaying carnival at night, where the evil ringmaster has sealed the exit. To escape, you must search different areas and collect 6 items. A flashlight, a rusty key, a mirror, a rope, a map, and a crowbar. The ringmaster is waiting in his tent and will confront you if you enter unprepared. 
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
 
 ## Rooms
 
