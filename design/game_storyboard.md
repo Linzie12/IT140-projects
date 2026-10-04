@@ -17,47 +17,43 @@ You find yourself locked inside a decaying carnival at night, where the evil rin
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Entrance Gate
+2. Arcade
+3. FunHouse
+4. Ferris Wheel
+5. Haunted House
+6. Food Stand
+7. Prize Booth
+8. Ringmaster's Tent
 
-Add more rooms if your design needs them.
 
 ## Items
 
-With the minimum eight-room design, Project One requires at least six items.
-Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. FLASHLIGHT
+2. MIRROR
+3. ROPE
+4. RUSTY KEY
+5. MAP
+6. CROWBAR
 
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
+
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Evil Ringmaster is the villain who has trapped the player inside the haunted carnival. He waits in the Ringmaster's Tent and will stop the player from escaping if they enter before collecting all six items.
 
 ## Storyboard and Map Check
 
 Before submitting, compare this storyboard with `game_map.drawio`.
 
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
+* [x] I included eight (8) rooms.
+* [x] I included six (6) collectable items.
+* [x] The start room has no item.
+* [x] The villain room has no item.
+* [x] Every room except the start room and villain room contains one item.
+* [x] Room, item, and villain names match my map.
+* [x] The map allows the player to collect all required items before the
   villain is encountered.
 
 ## Project Two Handoff
