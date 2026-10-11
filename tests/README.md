@@ -33,13 +33,13 @@ python3 prototype/move_between_rooms.py
 
 Test the milestone's reduced scope:
 
-* [ ] Valid movement from the Great Hall
-* [ ] Valid movement from the Bedroom
-* [ ] Valid movement from the Cellar when applicable
-* [ ] Invalid direction from a room
-* [ ] Invalid non-movement command
-* [ ] `exit`
-* [ ] Loop ends at the required exit condition
+* [x] Valid movement from the Great Hall
+* [x] Valid movement from the Bedroom
+* [x] Valid movement from the Cellar when applicable
+* [x] Invalid direction from a room
+* [x] Invalid non-movement command
+* [x] `exit`
+* [x] Loop ends at the required exit condition
 
 ## Debugging Cycle
 
